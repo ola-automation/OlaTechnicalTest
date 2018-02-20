@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [BJSS Technical Test]">
+  <listeners>
+    <listener class-name="com.bjss.listeners.CustomListeners"/>
+    <listener class-name="com.bjss.errorcollectors.TestListenerAdapter"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Signin Test(failed)">
+    <classes>
+      <class name="com.bjss.testcases.SigninTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="signInTest" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- com.bjss.testcases.SigninTest -->
+    </classes>
+  </test> <!-- Signin Test(failed) -->
+</suite> <!-- Failed suite [BJSS Technical Test] -->

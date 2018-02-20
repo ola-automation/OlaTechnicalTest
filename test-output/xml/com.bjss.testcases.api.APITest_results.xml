@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="API Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.979">
+  <properties />
+  
+  
+            <testcase name="Test_02" time="0.521" classname="com.bjss.testcases.api.APITest" />
+                <testcase name="Test_01" time="1.797" classname="com.bjss.testcases.api.APITest" />
+                <testcase name="Test_03" time="0.661" classname="com.bjss.testcases.api.APITest" />
+      
+</testsuite>

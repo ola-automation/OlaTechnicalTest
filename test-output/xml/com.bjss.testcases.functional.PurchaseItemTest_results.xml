@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Purchase Item Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="48.499">
+  <properties />
+  
+  
+            <testcase name="purchaseItemTest" time="39.958" classname="com.bjss.testcases.functional.PurchaseItemTest" />
+                <testcase name="ReviewOrderAddCommentTest" time="8.541" classname="com.bjss.testcases.functional.PurchaseItemTest" />
+      
+</testsuite>

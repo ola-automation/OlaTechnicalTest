@@ -1,0 +1,6 @@
+20/02/2018 17:21:04 devpinoyLogger Launching Chrome
+20/02/2018 17:21:09 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on MAC (71c7aa9fbdbb27ae694ed9eaac15484a)] -> css selector: .login]
+20/02/2018 17:21:09 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on MAC (71c7aa9fbdbb27ae694ed9eaac15484a)] -> css selector: #email] entered value as : ola.automation@gmail.com
+20/02/2018 17:21:09 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on MAC (71c7aa9fbdbb27ae694ed9eaac15484a)] -> css selector: #passwd] entered value as : BJSSTest
+20/02/2018 17:21:10 devpinoyLogger Clicking on an Element : Proxy element for: DefaultElementLocator 'By.cssSelector: #SubmitLogin'
+20/02/2018 17:21:12 devpinoyLogger Clicking on an Element : [[ChromeDriver: chrome on MAC (71c7aa9fbdbb27ae694ed9eaac15484a)] -> css selector: #header_logo>a]
